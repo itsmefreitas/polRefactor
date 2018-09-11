@@ -1,5 +1,3 @@
-A very simple polynomial calculator, made for a university assignment where the Python programming language was being introduced to the students.
-
 This calculator is capable of parsing polynomials from input, dealing with:
   - Integer coefficients and powers in polynomials;
   - Sum and subtraction arithmetic operations;
