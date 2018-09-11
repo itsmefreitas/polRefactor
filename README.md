@@ -1,3 +1,4 @@
+# polRefactor
 This calculator is capable of parsing polynomials from input, dealing with:
   - Integer coefficients and powers in polynomials;
   - Sum and subtraction arithmetic operations;
